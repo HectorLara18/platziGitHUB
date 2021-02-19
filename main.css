@@ -1,0 +1,12 @@
+body {
+    background-color: #eee;
+}
+
+#resultado {
+    background-color: #000131;
+    color: #eee;
+}
+
+#area_de_dibujo {
+    background-color: black;
+}
