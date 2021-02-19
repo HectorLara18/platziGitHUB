@@ -18,8 +18,14 @@ h1 {
     margin: 10px 5px;
 }
 
+h3 {
+    margin: 10px 5px;
+}
+
 main {
     font-size: 1.2rem;
     margin: 10px 5px;
     background-color: white;
+    width: 70vw;
+    left: auto;
 }
