@@ -16,7 +16,8 @@ body {
 h1 {
     font-size: 2.5rem;
     margin: 10px 5px;
-    background-color: #cccc;
+    background-color: #2167d3;
+    color: #ddd;
     text-align: center;
     border: solid 2px;
 }
