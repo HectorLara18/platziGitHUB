@@ -16,6 +16,9 @@ body {
 h1 {
     font-size: 2.5rem;
     margin: 10px 5px;
+    background-color: #cccc;
+    text-align: center;
+    border: solid 2px;
 }
 
 h3 {
@@ -24,8 +27,7 @@ h3 {
 
 main {
     font-size: 1.2rem;
-    margin: 10px 5px;
+    margin: 2vw 115px;
     background-color: white;
-    width: 70vw;
-    left: auto;
+    width: 80vw;
 }
