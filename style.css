@@ -9,6 +9,17 @@ html {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+body {
+    background-color: #ddd;
+}
+
 h1 {
     font-size: 2.5rem;
+    margin: 10px 5px;
+}
+
+main {
+    font-size: 1.2rem;
+    margin: 10px 5px;
+    background-color: white;
 }
