@@ -10,16 +10,20 @@ html {
 }
 
 body {
-    background-color: #1f4f31;
+    background-color: #eeeeea;
 }
 
 h1 {
     font-size: 2.5rem;
     margin: 10px 5px;
-    background-color: #2167d3;
-    color: #ddd;
+    background-color: #799CFB;
+    color: #222;
     text-align: center;
     border: solid 2px;
+    border-radius: 5px;
+    border-top: 0px;
+    border-color: #CAD9FF;
+    
 }
 
 h3 {
