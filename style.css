@@ -15,14 +15,16 @@ body {
 
 h1 {
     font-size: 2.5rem;
-    margin: 10px 5px;
-    background-color: #799CFB;
+    width: 97vw;
+    margin: auto auto;
+    background-color: #74a3be;
     color: #222;
     text-align: center;
     border: solid 2px;
     border-radius: 5px;
     border-top: 0px;
     border-color: #CAD9FF;
+    
     
 }
 
@@ -35,4 +37,29 @@ main {
     margin: 2vw 115px;
     background-color: white;
     width: 80vw;
+}
+
+.index-barra {
+    width: 97vw;
+    font-size: 1.6rem;
+    list-style: none;
+    margin: auto auto;
+    border-radius: 5px;
+    display: table;
+}
+
+.index-barra ul {
+    margin-top: 0px;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+    color: white;
+    padding: auto;
+}
+
+.index-barra li {
+    text-align: center;
+    margin: auto auto;
+    padding: 1px 9.7rem;
+    display: inline-block
 }
