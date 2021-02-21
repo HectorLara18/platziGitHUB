@@ -4,5 +4,24 @@ git status
 git --global user.name
 git --global user.email
 git --list
-git commit -m 
-git log 
+git commit -m
+git log
+git reset "" --hard
+git log --stat
+git checkout "version" "nombre del archivo"
+git checkout master "nombre del archivo"
+git clone url -> trae la version master a tu reposorio local 
+git fetch  -> trae as actuaslizaciones de ottro miemro de tu equipo a tu repositorrio
+git merg -> fuciona as otras versiones con tus versiones 
+git pull ->
+git branch -> para abrr una rama 
+git checkout ->
+git remote add origin
+$ git pull origin master --allow-unrelated-histories
+git branch -m master2 master1
+git fetch origin
+git branch -u origin/master1 master1
+$ ssh-keygen -t rsa -b 4096 -C "hectorlaras.18@gmail.com"
+$ ssh-add ~/.ssh/id_rsa
+git log --graph
+git clone  "" -> sirve para clonar un repositorio publico

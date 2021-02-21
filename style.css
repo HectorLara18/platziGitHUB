@@ -69,6 +69,24 @@ main {
 .index-barra li {
     text-align: center;
     margin: auto auto;
-    padding: 1px 9.7rem;
-    display: inline-block
+        padding: 1px 9.7rem;
+    display: inline-block;
+    color: #eee;
+    text-decoration: none;
+
+}
+
+.index-barra li a {
+    color: #eee;
+    text-decoration: none;
+
+}
+
+.index-barra li a:hover {
+    background-color: #000;
+}
+
+.index-barra li a::after {
+    text-decoration: none;
+    color: #eee;
 }
