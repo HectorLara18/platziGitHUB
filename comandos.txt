@@ -37,3 +37,4 @@ git -f -> borra archivos
 con el archivo gitignore mencionas los archivos que no seran tomados en cuenta para git para descartarlos se usa *.jpg ejemplo
 git cherry-pick -> sirve para traer cambios hechos con un commit especifico
 git commit --amend
+gitk -> sirve para ver la historia de las ramas
