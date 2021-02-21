@@ -26,3 +26,14 @@ $ ssh-keygen -t rsa -b 4096 -C "hectorlaras.18@gmail.com"
 $ ssh-add ~/.ssh/id_rsa
 git log --graph
 git clone  "" -> sirve para clonar un repositorio publico
+git rebase -> sirve para unificar ramas en repositorios locales 
+git stash -> guardar cambios en memoria y recuperarlos despues 
+git pop -> sirve para recuperar los cambios realizados antes de git stash
+git stash drop -> sirve para borrar los cambios 
+git stash branch -> sirve para crear una rama nueva a base de los cambios 
+gitk -> sirve para ver la historia de las ramas
+git clean --dry-run -> te muestra lo que sera borrado
+git -f -> borra archivos 
+con el archivo gitignore mencionas los archivos que no seran tomados en cuenta para git para descartarlos se usa *.jpg ejemplo
+git cherry-pick -> sirve para traer cambios hechos con un commit especifico
+git commit --amend
