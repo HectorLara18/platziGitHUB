@@ -38,3 +38,6 @@ con el archivo gitignore mencionas los archivos que no seran tomados en cuenta p
 git cherry-pick -> sirve para traer cambios hechos con un commit especifico
 git commit --amend
 gitk -> sirve para ver la historia de las ramas
+git reflog
+git reset --soft
+git reset --hard
