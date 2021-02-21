@@ -41,3 +41,7 @@ gitk -> sirve para ver la historia de las ramas
 git reflog
 git reset --soft
 git reset --hard
+git grep  -> sirve para buscar palabras
+git grep -n -> sirve para buscar la cantidad de veces que has utilizado una palabras
+git grep -c -> lo divide por archivo 
+git log -s -> buscas los commits
